@@ -19,7 +19,14 @@
 
 .doston {}
 
-.mohi {}
+.mohi_title {
+    font-family: Hind Madurai;
+    color: #150101;
+    font-size: 44.2px;
+    font-weight: 600;
+    line-height: 61px;
+    text-align: center;
+}
 
 .dil {}
 
